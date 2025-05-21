@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tickets",
+  "info": {
+    "singularName": "ticket",
+    "pluralName": "tickets",
+    "displayName": "ticket"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "eventsText": {
+      "type": "string"
+    },
+    "certificatesText": {
+      "type": "string"
+    },
+    "giftCertificateText": {
+      "type": "string"
+    }
+  }
+}

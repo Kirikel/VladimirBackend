@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "events",
+  "info": {
+    "singularName": "event",
+    "pluralName": "events",
+    "displayName": "event"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "certificateText": {
+      "type": "string"
+    },
+    "groupName": {
+      "type": "string"
+    },
+    "tourName": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "aboutTitle": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "buyTicketsText": {
+      "type": "string"
+    },
+    "enterEmailText": {
+      "type": "string"
+    },
+    "buyButtonText": {
+      "type": "string"
+    }
+  }
+}

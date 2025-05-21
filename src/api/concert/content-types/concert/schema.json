@@ -1,0 +1,69 @@
+{
+  "kind": "collectionType",
+  "collectionName": "concerts",
+  "info": {
+    "singularName": "concert",
+    "pluralName": "concerts",
+    "displayName": "Concerts",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "title1": {
+      "type": "string"
+    },
+    "price1": {
+      "type": "biginteger"
+    },
+    "price2": {
+      "type": "biginteger"
+    },
+    "price3": {
+      "type": "biginteger"
+    },
+    "price4": {
+      "type": "biginteger"
+    },
+    "price5": {
+      "type": "biginteger"
+    },
+    "price6": {
+      "type": "biginteger"
+    },
+    "price7": {
+      "type": "biginteger"
+    },
+    "price8": {
+      "type": "biginteger"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "title4": {
+      "type": "string"
+    },
+    "title5": {
+      "type": "string"
+    },
+    "title6": {
+      "type": "string"
+    },
+    "title7": {
+      "type": "string"
+    },
+    "title8": {
+      "type": "string"
+    }
+  }
+}
