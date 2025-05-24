@@ -408,6 +408,7 @@ export interface ApiConcertConcert extends Struct.CollectionTypeSchema {
     title: Schema.Attribute.String;
     title1: Schema.Attribute.String;
     title2: Schema.Attribute.String;
+    title3: Schema.Attribute.String;
     title4: Schema.Attribute.String;
     title5: Schema.Attribute.String;
     title6: Schema.Attribute.String;

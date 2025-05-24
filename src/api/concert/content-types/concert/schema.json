@@ -64,6 +64,9 @@
     },
     "title8": {
       "type": "string"
+    },
+    "title3": {
+      "type": "string"
     }
   }
 }
